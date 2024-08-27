@@ -3,12 +3,12 @@ Uma página que codifica e descodifica textos
 
 
 ## Lógica por trás do decodificador de textos:
-As "chaves" de criptografia são:
-A letra "e" é convertida para "enter"
-A letra "i" é convertida para "imes"
-A letra "a" é convertida para "ai"
-A letra "o" é convertida para "ober"
-A letra "u" é convertida para "ufat"
+As "chaves" de criptografia são: <br>
+A letra "e" é convertida para "enter" <br>
+A letra "i" é convertida para "imes" <br>
+A letra "a" é convertida para "ai" <br>
+A letra "o" é convertida para "ober" <br>
+A letra "u" é convertida para "ufat" <br>
 
 ### Funcionalidades do projeto
 Não permite que seja feita a criptografia com um texto em branco
