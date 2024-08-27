@@ -91,7 +91,7 @@ function copiarTexto(){
     let tempTextArea = document.createElement("textarea");
     tempTextArea.value = textoCriptografado.textContent;
     
-    document.body.appendChild(tempTextArea);
+    
  
 
     navigator.clipboard.writeText(textoCriptografado.value).then(() =>{
