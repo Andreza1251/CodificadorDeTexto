@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Decodificador</title>
+    <link rel="stylesheet" href="style.css">
+    
+</head>
+<body>
+    <header><img src="assets/logo_alura.png" alt="logo Alura"></header>
+        
+    
+
+    <main>
+        <div class="texto">
+            <div class="texto_normal">
+                <div class="formulario_texto">
+                    <textarea type="text" name="texto digitado" id="texto_digitado"  rows="6" cols="20" placeholder="Digite seu texto"></textarea>
+                     
+                    <p class="letras_minusculas"><img src="assets/pontoexclamacao.png" alt="ponto de exclamação de alerta">Apenas letras minúsculas e sem acento</p>
+                    <div class="botoes_codificadores_area">
+                        <button class="botoes_codificadores" id="botao_criptografar">Criptografar</button>
+                        <button class="botoes_codificadores" id="botao_descriptografar">Descriptografar</button>
+                    </div>
+                </div>
+                    
+                
+
+                
+
+                
+            </div>
+
+            <div class="texto_codificado">
+                
+                <div id="texto_codificado1">
+                    <textarea name="inputForm" id="inputForm" style="display: none" rows="20" cols="20" ></textarea>
+                    
+                    <img src="assets/lupa1.png" id="lupa" alt="lupa a procura de palavras">
+              
+                <p class="mensagem_encontrada" id="sem_mensagem">Nenhuma mensagem encontrada</p>
+                <p class="texto_digitado" id="texto_vazio">Digite um texto que você deseja criptografar ou Descriptografar</p>
+                </div>
+                
+                <button class="botao_copiar" id="botao_de_copiar">Copiar</button>
+            </div>
+        </div>
+        
+    </main>
+
+    <script src="app.js"></script>
+
+    <footer>Andreza Morais - 2024</footer>
+    
+
+</body>
+</html>
