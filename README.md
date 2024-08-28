@@ -12,18 +12,18 @@ A letra "u" é convertida para "ufat" <br>
 
 ### Funcionalidades do projeto
 Não permite que seja feita a criptografia com um texto em branco
-![imagem que pede para digitar um texto]()
+![imagem que pede para digitar um texto](https://github.com/Andreza1251/CodificadorDeTexto/blob/main/assets/semtexto.png)
 
 
 Fas a criptografia da mensagem
-![imagem da mensagem criptografada]()
+![imagem da mensagem criptografada](https://github.com/Andreza1251/CodificadorDeTexto/blob/main/assets/mensagem%2Ccriptografada.png)
 
 
 Copia a mensagem para descriptografar
-![imagem da mensagem descriptografada]()
+![imagem da mensagem descriptografada](https://github.com/Andreza1251/CodificadorDeTexto/blob/main/assets/mensagemcopiada.png)
 
 Faz a descriptografia da mensagem
-![imagem da mensagem descriptografada]()
+![imagem da mensagem descriptografada](https://github.com/Andreza1251/CodificadorDeTexto/blob/main/assets/mensagemdescriptografada.png)
 
 ### Tecnologias utilizadas
 
